@@ -14,4 +14,7 @@ Direct Website Access: Users can access the coffee shop’s official website wit
 The app is built with a clean, user-friendly interface, ensuring that both regulars and new customers can navigate and use its features effortlessly.
 
 
+
+
+
 ![app 1](https://github.com/user-attachments/assets/569d8e95-5e5c-4451-b08c-a1054d038af2) ![app2](https://github.com/user-attachments/assets/53edcc4c-b55b-4fb3-882b-71cb9654483f) ![app3](https://github.com/user-attachments/assets/854405ac-c9c5-4d8f-a214-7757fff46160)
